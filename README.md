@@ -17,7 +17,10 @@
 - `localhost:3030/jobs` endpoint'ine istek at ve verileri store a aktar.
 - `JobList.jsx` de store a abone ol ve işleri listele
 
+### 'Deploy'
+
+https://quiet-clafoutis-d5ec9f.netlify.app
+
 ### 'Screen'
 
 ![](job.gif)
-# job-finder
